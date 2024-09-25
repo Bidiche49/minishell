@@ -26,6 +26,10 @@
 - Developed skills in parsing command-line input and managing processes.
 - Learned to handle input/output redirection and environment variables.
 
+## Important Note
+
+**This project is designed to work only on Linux.** Ensure you are on a Linux operating system.
+
 ## How to Use
 
 1. Clone the repository:
